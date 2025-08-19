@@ -10,6 +10,8 @@ Arduino Wiring:
 | RAM Board Pin | Function | Arduino Pin |
 | --- | --- | --- |
 | 1 | GND | GND |
+2 | ROM DECODE* | 5V
+4 | VRAM DECODE* | 5V
 5 | RFSH* | GND
 7 | RAS | 46
 9 | GND | GND
